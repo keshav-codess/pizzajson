@@ -1,0 +1,70 @@
+{
+  "Vegetarian": [
+    {
+      "id": 10,
+      "name": "Vegan Veggie",
+      "price": "23.95",
+      "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://images.unsplash.com/photo-1601924582975-7d604fefb84c"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366"
+          }
+        ]
+      },
+      "toppings": [/* toppings stay same */]
+    },
+    {
+      "id": 11,
+      "name": "Veggie Zupreme",
+      "price": "19.95",
+      "menu_description": "The freshest, locally sourced veggies",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://images.unsplash.com/photo-1573821663919-d29d66a6ec07"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://images.unsplash.com/photo-1604908177797-587e28790b2d"
+          }
+        ]
+      },
+      "toppings": [/* toppings stay same */]
+    },
+    {
+      "id": 12,
+      "name": "The O.G.",
+      "price": "16.95",
+      "menu_description": "The Margherita—with California flair",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://images.unsplash.com/photo-1601925263257-3ccdeeb43b8c"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://images.unsplash.com/photo-1613141416749-e9cf53d94c7c"
+          }
+        ]
+      },
+      "toppings": [/* toppings stay same */]
+    }
+  ]
+}
