@@ -4,7 +4,7 @@
         "id": 10,
         "name": "Vegan Veggie",
         "price": "23.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": "A delicious plant-based delight made with creamy Daiya vegan mozzarella, topped with a colorful mix of fresh bell peppers, onions, olives, and mushrooms on a crisp crust — 100% dairy-free, 100% satisfying.",
         "classifications": {
           "vegetarian": true
         },
@@ -91,7 +91,7 @@
         "id": 11,
         "name": "Veggie Zupreme",
         "price": "19.95",
-        "menu_description": "The freshest, locally sourced veggies",
+        "menu_description": "Packed with the freshest, locally sourced vegetables and bursting with vibrant flavors, the Veggie Zupreme is a garden-fresh delight that satisfies every bite.",
         "classifications": {
           "vegetarian": true
         },
@@ -186,7 +186,7 @@
         "id": 12,
         "name": "The O.G.",
         "price": "16.95",
-        "menu_description": "The Margherita—with California flair",
+        "menu_description": "The classic Margherita with a modern twist—featuring freshly crushed California tomatoes, hand-picked basil, and rich mozzarella, all on a perfectly baked thin crust.",
         "classifications": {
           "vegetarian": true
         },
@@ -406,7 +406,7 @@
         "id": 16,
         "name": "Ultimate Tandoori Veggie",
         "price": "18.95",
-        "menu_description": "An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo.",
+        "menu_description": "An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, topped with 100% mozzarella cheese & generous drizzle of mint mayo.",
         "classifications": {
           "vegetarian": true
         },
